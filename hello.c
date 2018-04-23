@@ -2,6 +2,6 @@
 #include <stdlib.h>   
 int main()
 {
-	printf("Hello World!\n");   // first line
+	printf("Hello World, Quoc Dat Vo!\n");  
  	exit(0);
 }
